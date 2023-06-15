@@ -1,0 +1,9 @@
+.nav-item a:hover {
+  color: orange;
+}
+tr:hover {
+  background-color: orange;
+}
+.checked {
+  color: orange;
+}

@@ -1,0 +1,85 @@
+* {
+  font-family: "Comic Sans MS";
+  margin: 0px;
+}
+table {
+  background-color: rgb(70, 130, 180);
+  color: rgb(255, 255, 255);
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 100%;
+  font-size: 20px;
+}
+.logo {
+  text-align: center;
+}
+.logo h1 {
+  color: rgb(70, 130, 180);
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.logo p {
+  margin-bottom: 20px;
+}
+.pastor {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 0px;
+}
+#free {
+  color: rgb(70, 130, 180);
+  font-size: 30px;
+  margin-top: 0px;
+}
+.center {
+  margin-left: 30px;
+}
+#save a {
+  color: rgb(225, 0, 216);
+  font-size: 30px;
+  margin-top: 40px;
+}
+.cross {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+.cross .img1 {
+  margin-right: 150px;
+}
+.cross dt {
+  font-size: 20px;
+}
+.cross .img2 {
+  margin-left: 200px;
+}
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
+footer {
+  color: rgb(160, 160, 160);
+  font-size: 15px;
+  text-align: center;
+}
+.footlink ul {
+  list-style-type: none;
+  text-align: center;
+}
+.footlink ul li {
+  display: inline;
+  color: rgb(160, 160, 160);
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+li a {
+  color: rgb(160, 160, 160);
+  margin-top: 0px;
+}
+#last {
+  font-size: 12px;
+}
