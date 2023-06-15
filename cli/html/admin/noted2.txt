@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 64A9-AC8D
+
+ Directory of C:\Users\Margie\Desktop\bootcamp\html\admin
+
+05/04/2023  01:49 PM    <DIR>          .
+05/04/2023  01:49 PM    <DIR>          ..
+05/04/2023  01:49 PM                 0 noted.txt
+05/04/2023  01:49 PM                 8 oldnotes.txt
+               2 File(s)              8 bytes
+               2 Dir(s)  187,340,095,488 bytes free
